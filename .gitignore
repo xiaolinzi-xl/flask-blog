@@ -1,0 +1,8 @@
+
+venv/
+.idea/
+*.pyc
+develop_info.py
+
+__pycache__/
+*.py[cod]
